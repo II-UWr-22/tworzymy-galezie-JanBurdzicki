@@ -1,1 +1,52 @@
 Linux Jan-IdeaPad-L340 5.15.0-53-generic #59~20.04.1-Ubuntu SMP Thu Oct 20 15:10:22 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       16302140 kB
+MemFree:          379832 kB
+MemAvailable:    2531048 kB
+Buffers:          330056 kB
+Cached:          2792072 kB
+SwapCached:       923236 kB
+Active:          7391824 kB
+Inactive:        7457120 kB
+Active(anon):    5604244 kB
+Inactive(anon):  6935436 kB
+Active(file):    1787580 kB
+Inactive(file):   521684 kB
+Unevictable:          48 kB
+Mlocked:              48 kB
+SwapTotal:      31999996 kB
+SwapFree:       25827060 kB
+Dirty:              2336 kB
+Writeback:             0 kB
+AnonPages:      11629844 kB
+Mapped:          1395740 kB
+Shmem:            816104 kB
+KReclaimable:     181368 kB
+Slab:             475672 kB
+SReclaimable:     181368 kB
+SUnreclaim:       294304 kB
+KernelStack:       41536 kB
+PageTables:       173836 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    40151064 kB
+Committed_AS:   48391144 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:      117860 kB
+VmallocChunk:          0 kB
+Percpu:             8000 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:     1659516 kB
+DirectMap2M:    15036416 kB
+DirectMap1G:     1048576 kB
